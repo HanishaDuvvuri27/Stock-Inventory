@@ -271,10 +271,3 @@ If you encounter issues:
 3. Ensure all dependencies are installed
 4. Check network connectivity for API calls
 
-## 📄 License
-
-This project is private and proprietary.
-
----
-
-**Built with ❤️ using React, TypeScript, and Vite**
